@@ -1,4 +1,4 @@
-# Project Name
+# Brand Tweets
 
 Tail your favourite brand/topic on twitter in real-time to find out how the community feels about it.
 
